@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=god-prog03" alt="god-prog03" /></a> </p>
 
-- 📫 How to reach me **Discord@LordThEight#3365**
+- 📫 How to reach me **Discord@Lordx07#3365**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
