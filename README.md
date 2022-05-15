@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=god-prog03&label=Profile%20views&color=0e75b6&style=flat" alt="god-prog03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=god-prog03" alt="god-prog03" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lord-x7" alt="BLAZE♥️" /></a> </p>
 
 - 📫 How to reach me **Discord@Lordx07#3365**
 
