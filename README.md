@@ -7,9 +7,17 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/discordapp.com/users/LordThEight#3365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/LordThEight#3365" height="30" width="40" /></a>
-</p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/harash-parihar-874785225">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://discord.gg/discord.app/users/LordThEight#3365">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://twitter.com/Parihar__07">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex;">
