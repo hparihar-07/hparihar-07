@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harash Parihar</h1>
-<h3 align="center">A passionate developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=god-prog03&label=Profile%20views&color=0e75b6&style=flat" alt="god-prog03" /> </p>
 
@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/harash-parihar-874785225">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discord.gg/discord.app/users/LordThEight#3365">
+  <a href="https://discord.gg/discord.app/users/Lordx7#0394">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://twitter.com/Parihar__07">
