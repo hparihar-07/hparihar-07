@@ -19,7 +19,7 @@
        <!-- <img src="https://lanyard.cnrad.dev/api/91789597"/>-->
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://twitter.com/Parihar__07">
+  <a href="https://twitter.com/hparihar__07">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
