@@ -1,5 +1,5 @@
 # Hi 👋, I'm Harash Parihar
-![🧏 Image](./assets/peakpx.jpg)
+
 ## 🧐 About 
 - I am currently a Student
 - Writing "Hello,World!" since 2020
